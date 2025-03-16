@@ -34,6 +34,12 @@
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
 	<string></string>
+	<key>NSMicrophoneUsageDescription</key>
+	<string>Needs microphone access to record audio along with screen recording.</string>
+	<key>NSPhotoLibraryUsageDescription</key>
+	<string>Needs photo library access to save recorded screen videos.</string>
+	<key>NSPhotoLibraryAddUsageDescription</key>
+	<string>Needs permission to save recorded screen videos to photos.</string>
 	<key>UILaunchStoryboardName</key>
 	<string>LaunchScreen</string>
 	<key>UIRequiredDeviceCapabilities</key>
